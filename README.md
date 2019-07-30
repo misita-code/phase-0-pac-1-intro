@@ -13,71 +13,112 @@ the better.
 
 Our method for teaching programming starts from a different place than you
 might expect. If you've ever looked at programming tutorial or book you might
-be expecting lectures on loops, variables, data types, or something like that.
-We think there's a different, and better, way. We start by thinking deeply
+be expecting lectures on electricity, how to convert decimal numbers to binary
+numbers, data types, variables, or something like that. We've designed our
+curriculum to _not_ to that.
+
+New Figure 1
+
+We think there's a different, and better, way. _We_ start by thinking deeply
 about having _conversations_.
+
+New Figure 2
 
 Many of the ideas we’ll share in this module ask you to reflect on "when you
 learned to talk" or "when you’re talking with a friend." We call this
 "programming as conversation" and it gets you to think about _communicating_
 instead of "memorizing strange programmer words, facts, and symbols." You'll
 learn those words and symbols eventually, of course, but you'll see them as
-rules for communication, never as the point of programming itself.
+part of the act of communication, something you find natural right now, never
+as the point of programming itself.
 
-## Programming is Communication
-
-***Programming is communication.***
+## Programming is About Communication
 
 At its heart, programming is about communicating strategies for solving
-problems.
+problems. You:
 
-We have to communicate with computers using funny words and symbols. The reason
-we do that is because people express themselves in tons of ways and it's hard
-to make a machine understand them all. It's far easier to teach people to talk
-to the machine in a language it can understand (although it's frustrating for
-us!).
+* Document these strategies for yourself
+* Communicate these documented strategies to others
+* And then, lastly, ask a computer to run these strategies _very fast_
+
+A "program" then is really a strategy for solving a problem that people use to
+communicate with one another _as well as_ give to a machine.
+
+A recipe for a fancy dish is a good comparison: you **document** the
+ingredients and preparation for yourself using a human-language. You can then
+**communicate** that plan for food preparation by sharing the recipe with a
+friend.
+
+## Programs are Written in Notation
+
+Figure 3
+
+> **DEFINITION** Notation: A specialized vocabulary or system of symbols for
+> communication. **Examples** Musical notation, arithmetic symbols, chemistry
+> symbols, traffic signs, or knitting patterns.
+
+Even in recipes, we commonly use special _notation_ like `3g` for "3 grams" or
+`½C.` for "½ Imperial Cup." In recipes we do it usually use _notation_ save
+time so our wrists don't get tired. But with computers, we have to communicate
+using notation. Human language is often vague and imprecise and computers are
+_terrible_ about asking for specific help. To help prevent communication
+breakdowns, we use a special notation. The "special notation" is the
+programming language's rules or "syntax."
+
+## Programming Defined
+
+Let's propose a definition of programming:
+
+> **DEFINITION** Programming: Programming the act of creating programs:
+> documents that are written in a notation system that can be understood by
+> other humans _as well as_ computers.
+
+## Programming Language Defined
+
+> **DEFINITION** Programming Language: A programming language defines the rules
+> of notation ("syntax") that are required for it to ask the computer to do
+> work on your behalf.
+
+When programmers say "I prefer Ruby to JavaScript" they're saying "I like the
+notation system that Ruby uses for expressing problems and their solutions."
+It's a lot like why some people like to play one instrument over another. In
+your heart you might _feel_ like a bassoonist, tuba player, or pianist &mdash;
+but all those instruments play a Middle-C note at the same frequency.
+Programming languages are similar: while their notation varies, they all ask
+the chips inside the computer to do the same work at the end of the day.
+
+## We Converse With Computers
 
 One of the most essential ways of communicating, that we've all practiced
-thousands of times, is a _conversation_.
+thousands of times, is a _conversation_.  "Conversation" comes from the Latin
+words mean "by taking turns." In conversation, we "take turns" _expressing_
+ourselves.
 
-## Communication through Conversation
+A unit of "ideas" is an _expression_. When a listener hears an _expression_
+they interpret the words and symbols and sounds in the _expression_ into a
+_meaning_. We call the work they're doing there _evaluation_. The result of
+_evaluation_ for a human is "understanding." Computers show their understanding
+by returning the result of that evaluation. That value is called a _return_
+value.
 
-"Conversation" comes from the Latin words mean "with turns." In conversation we
-"take turns" expressing ourselves. When we converse in this way, we're
-_interacting_. Each person in the conversation shares their insights. Shared
-curiosity leads the pair to a new areas of discussion or explanation.
+Consider this diagram:
 
-But in a conversation something _else_ happens behind you say something / I say
-something. That would just be two people talking nearby. In a _conversation_
-something else happens, something that requires the things that are said to be
-_transformed_. We call the things we say "expression" and the transformation
-"evaluation."
+Figure 4
 
-## Expression and Evaluation
-
-In a conversation, we said, each person "expresses themselves." But let's be
-more precise about what that means.
-
-"Expression" comes from the Latin word meaning "from pushing." The ancients
-imagined that, in a conversation, I would have an idea in my brain and I would
-need to "push" that idea _to_ you through the words I chose, through my
-_expression_. To "express oneself" then is "to capture one's being" and "push
-it over to another person."
-
-Once you "push" an expression to someone else, that expression needs to be
-_evaluated_. When we're talking with a friend and we say something deep, or
-challenging, or complex to them, we look at them and can see them _evaluating_
-our expression.
-
-Ruby does the same.
-
-Given an _expression_, Ruby will _evaluate_ it and, like a good friend, give
-you a reaction about _how_ it evaluated your expression. In day-to-day life we
-call that a "response." It might be a snort, a giggle, an eye-roll, a head nod,
-or a screaming of "ANYTHING BUT THAT!" In the programming world we call
-responses from the programming language a _return value_.
+Here, Ruby acts like a "listener" in a conversation. When given an
+_expression_, Ruby will _evaluate_ it and, like a good friend, give you a
+reaction about _how_ it evaluated your expression. In the programming world we
+call responses from the programming language a _return value_.
 
 ***When expressions are evaluated, they return something***
+
+Sometimes our expressions might not make sense to Ruby
+
+`Work, you stupid machine` is not part of the valid notation of Ruby. Likewise
+`1 + "Cookie Monster"` is also not valid. Here we've broken the rules of the
+notation system. These are known as _syntax errors_. Remember computers require
+us to honor _their_ ***limited*** vocabulary. Syntax errors are prompts from
+the programming language to help steer _our_ communication to be more precise.
 
 ## Conclusion
 
@@ -85,4 +126,6 @@ Congratulations! You've finished your first lesson in thinking about
 programming as conversation. As you might guess, _expressions_ are really
 important because they're how we "push" ideas to computers and other
 programmers. We're going to spend the remainder of this module learning to
-build expressions and predict how Ruby will _evaluate_ them.
+build expressions and understanding how Ruby will _evaluate_ them. Make sure
+you've integrated the vocabulary words of "expression," "evaluation," and
+"return value" before moving on.
