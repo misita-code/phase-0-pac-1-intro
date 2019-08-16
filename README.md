@@ -17,12 +17,12 @@ be expecting lectures on electricity, how to convert decimal numbers to binary
 numbers, data types, variables, or something like that. We've designed our
 curriculum to _not_ to that.
 
-New Figure 1
+![Confused by code being front-loaded](https://curriculum-content.s3.amazonaws.com/programming-univbasics/intro-to-programming-as-conversation/Image_50_SadHead.png)
 
 We think there's a different, and better, way. _We_ start by thinking deeply
 about having _conversations_.
 
-New Figure 2
+![Conversations are a natural model for thinking about programming](https://curriculum-content.s3.amazonaws.com/programming-univbasics/intro-to-programming-as-conversation/Image_51_HappyHead.png)
 
 Many of the ideas we’ll share in this module ask you to reflect on "when you
 learned to talk" or "when you’re talking with a friend." We call this
@@ -33,6 +33,8 @@ part of the act of communication, something you find natural right now, never
 as the point of programming itself.
 
 ## Programming is About Communication
+
+![Turning Gears in Communication](https://curriculum-content.s3.amazonaws.com/programming-univbasics/intro-to-programming-as-conversation/Image_53_TwoHeads_Evaluatoin%20.png)
 
 At its heart, programming is about communicating strategies for solving
 problems. You:
@@ -51,19 +53,19 @@ friend.
 
 ## Programs are Written in Notation
 
-Figure 3
+![Notation Systems](https://curriculum-content.s3.amazonaws.com/programming-univbasics/intro-to-programming-as-conversation/Image_82_GraphicNotationSystems.png)
+
+Even in recipes, we commonly use special _notation_ like `3g` for "3 grams" or
+`½C.` for "½ Imperial Cup." In recipes, we usually use _notation_ to save time
+so our wrists don't get tired. But with computers, we have to communicate using
+notation. Human language is often vague and imprecise and computers are
+_terrible_ about handling unclear directions. To help prevent communication
+breakdowns, we converse with them using a special notation. The "special
+notation" is the programming language's rules or "syntax."
 
 > **DEFINITION** Notation: A specialized vocabulary or system of symbols for
 > communication. **Examples** Musical notation, arithmetic symbols, chemistry
 > symbols, traffic signs, or knitting patterns.
-
-Even in recipes, we commonly use special _notation_ like `3g` for "3 grams" or
-`½C.` for "½ Imperial Cup." In recipes we do it usually use _notation_ save
-time so our wrists don't get tired. But with computers, we have to communicate
-using notation. Human language is often vague and imprecise and computers are
-_terrible_ about asking for specific help. To help prevent communication
-breakdowns, we use a special notation. The "special notation" is the
-programming language's rules or "syntax."
 
 ## Programming Defined
 
@@ -103,7 +105,7 @@ value.
 
 Consider this diagram:
 
-Figure 4
+![Conversational Summary Graphic](https://curriculum-content.s3.amazonaws.com/programming-univbasics/intro-to-programming-as-conversation/Image_52_TwoHeadsConversingSummary.png)
 
 Here, Ruby acts like a "listener" in a conversation. When given an
 _expression_, Ruby will _evaluate_ it and, like a good friend, give you a
