@@ -2,10 +2,10 @@
 
 ## Introduction
 
-Welcome! In this module we’re going to start learning how to program in Ruby.
+Welcome! In this module, we’re going to start learning how to program in Ruby.
 
 It will be a long process and you will have moments of elation, excitement and,
-sometimes, we're sorry to say, frustration. But we _promise_ you, learning to
+sometimes, we're sorry to say frustration. But we _promise_ you, learning to
 think in the disciplined way that programming teaches will change your life for
 the better.
 
@@ -28,9 +28,8 @@ Many of the ideas we’ll share in this module ask you to reflect on "when you
 learned to talk" or "when you’re talking with a friend." We call this
 "programming as conversation" and it gets you to think about _communicating_
 instead of "memorizing strange programmer words, facts, and symbols." You'll
-learn those words and symbols eventually, of course, but you'll see them as
-part of the act of communication, something you find natural right now, never
-as the point of programming itself.
+learn those strange words and symbols eventually, of course, but you'll see
+them as part of the act of communication, something you find natural right now.
 
 ## Programming is About Communication
 
@@ -43,8 +42,8 @@ problems. You:
 * Communicate these documented strategies to others
 * And then, lastly, ask a computer to run these strategies _very fast_
 
-A "program" then is really a strategy for solving a problem that people use to
-communicate with one another _as well as_ give to a machine.
+A "program" then is actually a strategy for solving a problem that people use
+to communicate with one another _as well as_ give to a machine.
 
 A recipe for a fancy dish is a good comparison: you **document** the
 ingredients and preparation for yourself using a human-language. You can then
@@ -71,9 +70,9 @@ notation" is the programming language's rules or "syntax."
 
 Let's propose a definition of programming:
 
-> **DEFINITION** Programming: Programming the act of creating programs:
-> documents that are written in a notation system that can be understood by
-> other humans _as well as_ computers.
+> **DEFINITION** Programming: The act of creating programs: documents written
+> in a notation system that can be understood by other humans _as well as_
+> computers.
 
 ## Programming Language Defined
 
@@ -88,6 +87,10 @@ your heart you might _feel_ like a bassoonist, tuba player, or pianist &mdash;
 but all those instruments play a Middle-C note at the same frequency.
 Programming languages are similar: while their notation varies, they all ask
 the chips inside the computer to do the same work at the end of the day.
+
+As such a lot of the "fashion parade" of "what's hot" in the technical scene is
+just fashion. The really important thing to learn is: "What kind of problems or
+solutions does this language make easier to express?"
 
 ## We Converse With Computers
 
@@ -107,27 +110,29 @@ Consider this diagram:
 
 ![Conversational Summary Graphic](https://curriculum-content.s3.amazonaws.com/programming-univbasics/intro-to-programming-as-conversation/Image_52_TwoHeadsConversingSummary.png)
 
-Here, Ruby acts like a "listener" in a conversation. When given an
-_expression_, Ruby will _evaluate_ it and, like a good friend, give you a
-reaction about _how_ it evaluated your expression. In the programming world we
-call responses from the programming language a _return value_.
+In the next lessons, we're going to see how Ruby acts as a "listener" in a
+conversation. When given an _expression_, Ruby will _evaluate_ it and, like a
+good friend, give you a reaction about _how_ it evaluated your expression. In
+the programming world, we call responses from the programming language a _return
+value_.
 
 ***When expressions are evaluated, they return something***
 
-Sometimes our expressions might not make sense to Ruby
+Sometimes our expressions might not make sense to Ruby, just like sometimes our
+conversations with friends don't _quite_ make sense to them.
 
 `Work, you stupid machine` is not part of the valid notation of Ruby. Likewise
 `1 + "Cookie Monster"` is also not valid. Here we've broken the rules of the
-notation system. These are known as _syntax errors_. Remember computers require
-us to honor _their_ ***limited*** vocabulary. Syntax errors are prompts from
-the programming language to help steer _our_ communication to be more precise.
+notation system. These are known as _syntax errors_. Computers require us to
+honor _their_ ***limited*** vocabulary. Syntax errors are prompts from the
+programming language to help steer _our_ communication to be more precise.
 
 ## Conclusion
 
 Congratulations! You've finished your first lesson in thinking about
-programming as conversation. As you might guess, _expressions_ are really
-important because they're how we "push" ideas to computers and other
-programmers. We're going to spend the remainder of this module learning to
-build expressions and understanding how Ruby will _evaluate_ them. Make sure
-you've integrated the vocabulary words of "expression," "evaluation," and
-"return value" before moving on.
+programming as a conversation. As you might guess, _expressions_ are important
+because they're how we "push" ideas to computers and other programmers. We're
+going to spend the remainder of this module learning to build expressions and
+understanding how Ruby will _evaluate_ them. Make sure you've integrated the
+vocabulary words of "expression," "evaluation," and "return value" before
+moving on.
