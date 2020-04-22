@@ -15,7 +15,7 @@ Our method for teaching programming starts from a different place than you
 might expect. If you've ever looked at programming tutorial or book you might
 be expecting lectures on electricity, how to convert decimal numbers to binary
 numbers, data types, variables, or something like that. We've designed our
-curriculum to _not_ to that.
+curriculum to _not_ do that.
 
 ![Confused by code being front-loaded](https://curriculum-content.s3.amazonaws.com/programming-univbasics/intro-to-programming-as-conversation/Image_50_SadHead.png)
 
