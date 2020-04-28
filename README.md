@@ -96,7 +96,7 @@ solutions does this language make easier to express?"
 
 One of the most essential ways of communicating, that we've all practiced
 thousands of times, is a _conversation_.  "Conversation" comes from the Latin
-words mean "by taking turns." In conversation, we "take turns" _expressing_
+words meaning "by taking turns." In conversation, we "take turns" _expressing_
 ourselves.
 
 A unit of "ideas" is an _expression_. When a listener hears an _expression_
