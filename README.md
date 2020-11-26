@@ -121,12 +121,13 @@ value_.
 Sometimes our expressions might not make sense to JavaScript, just like sometimes our
 conversations with friends don't _quite_ make sense to them.
 
-`Work, you stupid machine` is not part of the valid notation of JavaScript. 
+`Work, you stupid machine` is not part of the valid notation of JavaScript. Below, we've
+embedded a tool that can read JavaScript, which allows us to see what happens:
 
 <iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/RoyalblueWeakBash?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
-Here we've broken the rules of the notation system. These are known as _syntax
-errors_. Computers require us to honor _their_ ***limited*** vocabulary. Syntax
+Here we've broken the rules of the notation system. This is known as a _syntax
+error_. Computers require us to honor _their_ ***limited*** vocabulary. Syntax
 errors are prompts from the programming language to help steer _our_ communication
 to be more precise.
 
