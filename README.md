@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome! In this module, we’re going to start learning how to program in Ruby.
+Welcome! In this module, we’re going to start learning how to program in JavaScript.
 
 It will be a long process and you will have moments of elation, excitement and,
 sometimes, we're sorry to say frustration. But we _promise_ you, learning to
@@ -110,22 +110,25 @@ Consider this diagram:
 
 ![Conversational Summary Graphic](https://curriculum-content.s3.amazonaws.com/programming-univbasics/intro-to-programming-as-conversation/Image_52_TwoHeadsConversingSummary.png)
 
-In the next lessons, we're going to see how Ruby acts as a "listener" in a
-conversation. When given an _expression_, Ruby will _evaluate_ it and, like a
+In the next lessons, we're going to see how JavaScript acts as a "listener" in a
+conversation. When given an _expression_, JavaScript will _evaluate_ it and, like a
 good friend, give you a reaction about _how_ it evaluated your expression. In
 the programming world, we call responses from the programming language a _return
 value_.
 
 ***When expressions are evaluated, they return something***
 
-Sometimes our expressions might not make sense to Ruby, just like sometimes our
+Sometimes our expressions might not make sense to JavaScript, just like sometimes our
 conversations with friends don't _quite_ make sense to them.
 
-`Work, you stupid machine` is not part of the valid notation of Ruby. Likewise
-`1 + "Cookie Monster"` is also not valid. Here we've broken the rules of the
-notation system. These are known as _syntax errors_. Computers require us to
-honor _their_ ***limited*** vocabulary. Syntax errors are prompts from the
-programming language to help steer _our_ communication to be more precise.
+`Work, you stupid machine` is not part of the valid notation of JavaScript. 
+
+<iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/RoyalblueWeakBash?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
+Here we've broken the rules of the notation system. These are known as _syntax
+errors_. Computers require us to honor _their_ ***limited*** vocabulary. Syntax
+errors are prompts from the programming language to help steer _our_ communication
+to be more precise.
 
 ## Conclusion
 
@@ -133,6 +136,7 @@ Congratulations! You've finished your first lesson in thinking about
 programming as a conversation. As you might guess, _expressions_ are important
 because they're how we "push" ideas to computers and other programmers. We're
 going to spend the remainder of this module learning to build expressions and
-understanding how Ruby will _evaluate_ them. Make sure you've integrated the
+understanding how JavaScript will _evaluate_ them. Make sure you've integrated the
 vocabulary words of "expression," "evaluation," and "return value" before
 moving on.
+
