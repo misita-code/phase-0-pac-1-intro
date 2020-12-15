@@ -33,7 +33,7 @@ as part of the act of communication, something you find natural right now.
 
 ## Programming is About Communication
 
-![Turning Gears in Communication](https://curriculum-content.s3.amazonaws.com/programming-univbasics/intro-to-programming-as-conversation/Image_53_TwoHeads_Evaluatoin%20.png)
+![Turning Gears in Communication](https://curriculum-content.s3.amazonaws.com/programming-univbasics/intro-to-programming-as-conversation/Image_53_TwoHeads_Evaluation.png)
 
 At its heart, programming is about communicating strategies for solving
 problems. You:
