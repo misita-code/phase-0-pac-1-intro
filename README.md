@@ -17,12 +17,12 @@ expecting lectures on how to convert decimal numbers to binary numbers, data
 types, variables, or something like that. We've designed our curriculum to _not_
 do that.
 
-![Confused by code being front-loaded](https://curriculum-content.s3.amazonaws.com/programming-univbasics/intro-to-programming-as-conversation/Image_50_SadHead.png)
+![Confused by code being front-loaded](https://curriculum-content.s3.amazonaws.com/phase-0/pac-1-intro/Image_50_SadHead.png)
 
 We think there's a different, and better, way: we start instead by thinking
 deeply about having _conversations_.
 
-![Conversations are a natural model for thinking about programming](https://curriculum-content.s3.amazonaws.com/programming-univbasics/intro-to-programming-as-conversation/Image_51_HappyHead.png)
+![Conversations are a natural model for thinking about programming](https://curriculum-content.s3.amazonaws.com/phase-0/pac-1-intro/Image_51_HappyHead.png)
 
 Many of the ideas we’ll share in this module ask you to reflect on "when you
 learned to talk" or "when you’re talking with a friend." We call this
@@ -33,7 +33,7 @@ as part of the act of communication, something you find natural right now.
 
 ## Programming is About Communication
 
-![Turning Gears in Communication](https://curriculum-content.s3.amazonaws.com/programming-univbasics/intro-to-programming-as-conversation/Image_53_TwoHeads_Evaluation.png)
+![Turning Gears in Communication](https://curriculum-content.s3.amazonaws.com/phase-0/pac-1-intro/Image_53_TwoHeads_Evaluation.png)
 
 At its heart, programming is about communicating strategies for solving
 problems. You:
@@ -51,7 +51,7 @@ that plan for food preparation by sharing the recipe with a friend.
 
 ## Programs are Written in Notation
 
-![Notation Systems](https://curriculum-content.s3.amazonaws.com/programming-univbasics/intro-to-programming-as-conversation/Image_82_GraphicNotationSystems.png)
+![Notation Systems](https://curriculum-content.s3.amazonaws.com/phase-0/pac-1-intro/Image_82_GraphicNotationSystems.png)
 
 Even in recipes, we commonly use special _notation_ like `3g` for "3 grams" or
 `½C.` for "½ Imperial Cup." In recipes, we usually use _notation_ to save time
@@ -100,7 +100,7 @@ the result of that evaluation. That value is called a _return_ value.
 
 Consider this diagram:
 
-![Conversational Summary Graphic](https://curriculum-content.s3.amazonaws.com/programming-univbasics/intro-to-programming-as-conversation/Image_52_TwoHeadsConversingSummary.png)
+![Conversational Summary Graphic](https://curriculum-content.s3.amazonaws.com/phase-0/pac-1-intro/Image_52_TwoHeadsConversingSummary.png)
 
 In the next lessons, we're going to see how JavaScript acts as a "listener" in a
 conversation. When given an _expression_, JavaScript will _evaluate_ it and,
