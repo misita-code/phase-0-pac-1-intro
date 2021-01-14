@@ -115,8 +115,7 @@ sometimes our conversations with friends don't _quite_ make sense to them.
 
 `Work, you stupid machine` is not part of the valid notation of JavaScript.
 Below, we've embedded a tool that can read JavaScript. To see what happens when
-JavaScript tries to evaluate the expression, press the play button at the top of
-the page.
+JavaScript tries to evaluate the expression, press the play button at the top.
 
 <iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/RoyalblueWeakBash?lite=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
