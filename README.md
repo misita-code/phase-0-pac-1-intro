@@ -12,7 +12,7 @@ disciplined way that programming teaches will change your life for the better.
 ## Programming as Conversation
 
 Our method for teaching programming starts from a different place than you might
-expect. If you've ever looked at programming tutorial or book you might be
+expect. If you've ever looked at a programming tutorial or book you might be
 expecting lectures on how to convert decimal numbers to binary numbers, data
 types, variables, or something like that. We've designed our curriculum to _not_
 do that.
@@ -94,7 +94,7 @@ ourselves.
 
 A unit of "ideas" is an _expression_. When a listener hears an _expression_ they
 interpret the words and symbols and sounds in the _expression_ into a _meaning_.
-We call the work they're doing their _evaluation_. The result of _evaluation_
+We call the work they're doing _evaluation_. The result of _evaluation_
 for a human is "understanding." Computers show their understanding by returning
 the result of that evaluation. That value is called a _return_ value.
 
