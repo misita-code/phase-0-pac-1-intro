@@ -94,7 +94,7 @@ ourselves.
 
 A unit of "ideas" is an _expression_. When a listener hears an _expression_ they
 interpret the words and symbols and sounds in the _expression_ into a _meaning_.
-We call the work they're doing there _evaluation_. The result of _evaluation_
+We call the work they're doing their _evaluation_. The result of _evaluation_
 for a human is "understanding." Computers show their understanding by returning
 the result of that evaluation. That value is called a _return_ value.
 
