@@ -76,7 +76,7 @@ Let's propose a definition of programming:
 When programmers say "I prefer Ruby to JavaScript" they're saying "I like the
 notation system that Ruby uses for expressing problems and their solutions."
 It's a lot like why some people like to play one instrument over another. In
-your heart you might _feel_ like a bassoonist, tuba player, or pianist &mdash;
+your heart you might _feel_ like a bassoonist, tuba player, or pianist —
 but all those instruments play a Middle-C note at the same frequency.
 Programming languages are similar: while their notation varies, they all ask the
 chips inside the computer to do the same work at the end of the day.
