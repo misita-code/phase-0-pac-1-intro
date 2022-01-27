@@ -123,7 +123,7 @@ sometimes our conversations with friends don't _quite_ make sense to them.
 Below, we've embedded a tool that can read JavaScript. To see what happens when
 JavaScript tries to evaluate the expression, press the play button at the top.
 
-<iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/RoyalblueWeakBash?lite=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/RoyalblueWeakBash?lite=1&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 Here we've broken the rules of the notation system. This is known as a _syntax
 error_. Computers require us to honor _their_ ***limited*** vocabulary. Syntax
@@ -133,11 +133,11 @@ communication to be more precise.
 When we follow the rules and adhere to the syntax, JavaScript will return
 something to us:
 
-<iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/pac-0-1?lite=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/pac-0-1?lite=1&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 Sometimes, we might get something unexpected:
 
-<iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/PuzzlingTrustworthyCgi?lite=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/PuzzlingTrustworthyCgi?lite=1&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 But we'll get _something_ in return.
 
