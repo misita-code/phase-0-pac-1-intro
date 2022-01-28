@@ -121,8 +121,7 @@ sometimes our conversations with friends don't _quite_ make sense to them.
 
 `Work, you stupid machine` is not part of the valid notation of JavaScript.
 Below, we've embedded a tool that can read JavaScript. To see what happens when
-JavaScript tries to evaluate the expression, type `Work, you stupid machine`
-into the _console_ and press enter.
+JavaScript tries to evaluate the expression, press the play button at the top.
 
 <iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/RoyalblueWeakBash?lite=1&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
@@ -132,13 +131,15 @@ errors are prompts from the programming language to help steer _our_
 communication to be more precise.
 
 When we follow the rules and adhere to the syntax, JavaScript will return
-something to us. This time try typing in `1 + 1`. You should see the return
-value `2`.
+something to us:
 
-Sometimes, we might get something unexpected. Now try typing in `1 + "Cookie
-Monster"` and see what is returned.
+<iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/pac-0-1?lite=1&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
-As long as we're following the rules, we'll get _something_ in return.
+Sometimes, we might get something unexpected:
+
+<iframe height="400px" width="100%" src="https://repl.it/@MaxwellBenton2/PuzzlingTrustworthyCgi?lite=1&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
+But we'll get _something_ in return.
 
 ## Conclusion
 
