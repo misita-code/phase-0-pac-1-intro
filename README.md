@@ -150,7 +150,7 @@ You'll learn more about _why_ this happened later. The important thing to know
 now is that, as long as we follow JavaScript's syntax rules, we'll get
 _something_ in return.
 
-**Top Tip**: when you see an instruction to type something into the repl, we
+**Top Tip**: When you see an instruction to type something into the repl, we
 suggest you do exactly that rather than copy/pasting. Actually typing in the
 code helps your brain learn!
 
