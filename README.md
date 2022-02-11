@@ -131,8 +131,10 @@ error_. Computers require us to honor _their_ ***limited*** vocabulary. Syntax
 errors are prompts from the programming language to help steer _our_
 communication to be more precise.
 
-**Note**: You can clear the console at any time by clicking the `X` in the
-upper right corner.
+**Note**: Take a look at the the "play" button at the top of the window. When
+you're experimenting in the console window, you can use this button to "reset"
+the console. This will both clear out any code in the window and cause JavaScript
+to "forget" what you've run, which can come in handy if you're getting an error.
 
 When we follow the rules and adhere to the syntax, however, JavaScript will
 return something to us. This time, try typing `1 + 1` into the console window.
