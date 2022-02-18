@@ -131,7 +131,7 @@ error_. Computers require us to honor _their_ ***limited*** vocabulary. Syntax
 errors are prompts from the programming language to help steer _our_
 communication to be more precise.
 
-**Note**: Take a look at the the "play" button at the top of the window. When
+**Note**: Take a look at the green "run" button at the top of the window. When
 you're experimenting in the console window, you can use this button to "reset"
 the console. This will both clear out any code in the window and cause JavaScript
 to "forget" what you've run, which can come in handy if you're getting an error.
