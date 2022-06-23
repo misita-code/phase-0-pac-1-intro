@@ -124,7 +124,7 @@ Below, we've embedded a tool that can read JavaScript. To see what happens when
 JavaScript tries to interpret `Work, you stupid machine`, you can simply type it
 into the console window below and press enter. Give it a try.
 
-<iframe height="400px" width="100%" src="https://replit.com/@lizbur10/Sandbox?lite=1&outputonly=1" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="400px" width="100%" src="https://replit.com/@lizbur10/Sandbox?embed=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 Here we've broken the rules of the notation system. This is known as a _syntax
 error_. Computers require us to honor _their_ ***limited*** vocabulary. Syntax
