@@ -33,7 +33,7 @@ as part of the act of communication, something you find natural right now.
 
 ## Programming is About Communication
 
-![Turning Gears in Communication](https://curriculum-content.s3.amazonaws.com/phase-0/pac-1-intro/Image_53_TwoHeads_Evaluation.png)
+![Turning Gears in Communication. Indicating that programming is about communicating your ideas through code.](https://curriculum-content.s3.amazonaws.com/phase-0/pac-1-intro/Image_53_TwoHeads_Evaluation.png)
 
 At its heart, programming is about communicating strategies for solving
 problems. You:
@@ -51,7 +51,7 @@ that plan for food preparation by sharing the recipe with a friend.
 
 ## Programs are Written in Notation
 
-![Notation Systems](https://curriculum-content.s3.amazonaws.com/phase-0/pac-1-intro/Image_82_GraphicNotationSystems.png)
+![Notation Systems. Says graphic notations are used everywhere to including chemistry formulas, Music notes, road signs and Knitting symbols](https://curriculum-content.s3.amazonaws.com/phase-0/pac-1-intro/Image_82_GraphicNotationSystems.png)
 
 Even in recipes, we commonly use special _notation_ like `3g` for "3 grams" or
 `½C.` for "½ Imperial Cup." In recipes, we usually use _notation_ to save time
@@ -106,7 +106,7 @@ the result of that evaluation. That value is called a _return_ value.
 
 Consider this diagram:
 
-![Conversational Summary Graphic](https://curriculum-content.s3.amazonaws.com/phase-0/pac-1-intro/Image_52_TwoHeadsConversingSummary.png)
+![Conversational Summary Graphic. Mentions the steps we use to converse. 1. Expressing a feeling (in this case "I'm hungry"). 2. The other person tries to evaluate the expression. 3. Then generate meaning from it (Understanding). 4. Analyze the expression to find a good solution (using logic). 5. Send back an appropriate expression resulting from the previous step.](https://curriculum-content.s3.amazonaws.com/phase-0/pac-1-intro/Image_52_TwoHeadsConversingSummary.png)
 
 In the next lessons, we're going to see how JavaScript acts as a "listener" in a
 conversation. When given an _expression_, JavaScript will _evaluate_ it and,
@@ -140,7 +140,7 @@ When we follow the rules and adhere to the syntax, however, JavaScript will
 return something to us. This time, try typing `1 + 1` into the console window.
 (Don't forget to hit enter.) You should see the following:
 
-![return value](https://curriculum-content.s3.amazonaws.com/phase-0/pac-1-intro/return-value.png)
+![Console showing return value from the expression 1 + 1 which is number 2](https://curriculum-content.s3.amazonaws.com/phase-0/pac-1-intro/return-value.png)
 
 JavaScript has _evaluated_ the _expression_ `1 + 1` and the result — the
 expression's _return value_ — is returned on the next line.
